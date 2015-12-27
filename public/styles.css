@@ -1,0 +1,41 @@
+.notebooks-list .list {
+  margin-top: 10px; }
+
+.notebook {
+  padding: 15px 15px 15px 15px;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+  font-size: 1.6rem; }
+  .notebook:hover {
+    background-color: #303030;
+    color: #fff; }
+
+.selected {
+  background-color: #303030;
+  color: #fff; }
+
+.note {
+  font-size: 1.8rem;
+  padding: 10px;
+  border-bottom: 1px dotted #ccc; }
+
+.header {
+  width: 100%;
+  height: 50px; }
+  .header .btn {
+    margin: 8px -10px 10px 25px;
+    padding: 0;
+    font-size: 3rem;
+    border-radius: 100%;
+    padding: 0px 14px 0px 14px; }
+  .header .heading {
+    margin: 12px 10px 10px 0px; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  background-color: #ffffff;
+  font-family: 'Source Sans Pro', 'sans-serif'; }
+
+/*# sourceMappingURL=styles.css.map */

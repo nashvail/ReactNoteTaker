@@ -1,0 +1,17 @@
+.notebook {
+	padding : 15px 15px 15px 15px;
+	border-bottom : 1px solid black;
+	cursor: pointer;
+	font-size : 1.6rem;
+
+	&:hover {
+		background-color : #303030;
+		color: #fff;
+	}
+
+}
+
+.selected {
+	background-color : #303030;
+	color: #fff;
+}

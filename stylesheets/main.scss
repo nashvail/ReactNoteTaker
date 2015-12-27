@@ -1,0 +1,15 @@
+@import 'variables';
+@import './components/notebooks_list';
+@import './components/notes_list';
+@import './components/notebook';
+@import './components/note';
+@import './components/list_header';
+
+html{
+	font-size: 62.5%;
+}
+
+body { 
+	background-color : $background_color;
+	font-family : 'Source Sans Pro', 'sans-serif';
+}

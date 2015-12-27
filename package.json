@@ -1,0 +1,19 @@
+{
+  "name": "reacttodo",
+  "version": "0.0.1",
+  "description": "A todo app created using react",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nash Vail",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "bootstrap": "^3.3.6",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "webpack": "^1.12.9"
+  }
+}
